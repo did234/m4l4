@@ -1,0 +1,18 @@
+header{
+    background: url("header.png");
+}
+.logo{
+    background: url("login.png");
+}
+h3{
+    text-align: center;
+}
+.imgs {
+    float: left;
+}
+.text {
+    float: right;
+}
+.conteiner {
+    display: flex;
+}
